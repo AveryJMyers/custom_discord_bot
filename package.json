@@ -1,0 +1,16 @@
+{
+  "name": "custom_discord_bot",
+  "version": "1.0.0",
+  "description": "discord casino bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Avery Myers",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
